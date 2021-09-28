@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: test-server
-          image: laithharb/server:v2 
+          image: laithharb/server:v3
           resources:
             requests:
               memory: 200Mi
